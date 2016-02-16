@@ -1,0 +1,12 @@
+.selected {
+  background-color: #8b9ee0;
+  color: #fff;
+}
+
+.increment {
+
+}
+
+li{
+  cursor: pointer;
+}
